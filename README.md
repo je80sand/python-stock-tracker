@@ -29,3 +29,7 @@ A simple Python-based stock tracking application that records stock positions an
    ```bash
    python3 --version
 
+ ## 🚀 Future Improvements
+- Add live stock price lookup using an external API
+- Improve input validation and error handling
+- Add unit tests for profit/loss calculations
