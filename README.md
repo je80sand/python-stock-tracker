@@ -16,7 +16,7 @@ A simple Python-based stock tracking application that records stock positions an
 - **Data Storage:** JSON (local file)
 - **Version Control:** Git & GitHub
 
-## 📂 Project Structure## ⚙️ How It Works (High Level)
+## ⚙️ How It Works (High Level)
 
 1. The script loads stock data from a local JSON file.
 2. Users can add or update stock positions.
